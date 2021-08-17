@@ -1,0 +1,62 @@
+
+img {
+  width: 230px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 10px;
+}
+
+.picture{
+width: 15;
+height : 15;
+	
+}
+
+
+body {
+ /* background-color: Bisques;*/
+  font-family: Arial;
+}
+
+
+
+body {
+  color: black;
+   font-family: Poppins, sans-serif;
+  font-size: 20px; 
+}
+
+
+
+h2{
+	color:Crimson;
+	font-family: 'Abril Fatface', serif;
+  font-size: 40px;
+}
+
+.text-shadow {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  font-style: italic;
+}
+
+
+body {
+  color: black;
+  text-align: center;
+  font-size: 130%;
+  font-style: italic;
+ 
+}
+
+
+h1 {
+  font-family: 'Abril Fatface', serif;
+  font-size: 46px;  
+}
+
+.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
